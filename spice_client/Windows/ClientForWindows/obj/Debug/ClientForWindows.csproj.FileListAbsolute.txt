@@ -1,0 +1,39 @@
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe.config
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.pdb
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Form1.resources
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Properties.Resources.resources
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.exe
+C:\Users\Александр\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.pdb
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe.config
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.exe
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.pdb
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.pdb
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Form1.resources
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Properties.Resources.resources
+\\Mac\Home\Desktop\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe.config
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.exe
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.pdb
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.pdb
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Form1.resources
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Properties.Resources.resources
+\\Mac\Home\Desktop\Сервионика\стажировка Сервионика\SPICE\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csproj.GenerateResource.Cache
+D:\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe.config
+D:\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.exe
+D:\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.pdb
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe.config
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.exe
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.pdb
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.exe
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\bin\Debug\ClientForWindows.pdb
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Form1.resources
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.Properties.Resources.resources
+C:\Users\Александр\Desktop\serv\ClientForWindows\ClientForWindows\obj\Debug\ClientForWindows.csproj.GenerateResource.Cache
